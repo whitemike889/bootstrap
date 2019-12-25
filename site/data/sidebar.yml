@@ -10,6 +10,7 @@
     # - title: Best practices # TODO: Write this content
     - title: Webpack
     - title: Accessibility
+    - title: RFS
 
 - title: Layout
   pages:
@@ -46,7 +47,7 @@
     - title: Button group
     - title: Card
     - title: Carousel
-    - title: Close icon
+    - title: Close button
     - title: Collapse
     - title: Dropdowns
     - title: Icons
